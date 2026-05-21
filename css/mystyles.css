@@ -1,0 +1,50 @@
+.yukicenter{
+    text-align: center;
+    color: #aaccff;
+    background-color: #ffdbe9;
+    border: 2px solid #dabfff;
+    padding: 20px;
+    border-radius: 30px;
+}
+.ziwojieshao{
+    text-align: center;
+    color: #0003cd;
+    background-color: rgba(94, 177, 245, 0.568);
+    padding: 30px 40px;
+    border-radius: 20px;
+    margin: -10px auto 0 auto ;
+    width: 70%;
+    height: 100px;
+    overflow: hidden;
+}
+.yukii{
+    text-align: center;
+    color: #ffffff;
+}
+a.yulink{
+    color: #97bcfc;
+    padding: 0 10px;
+    border-radius: 20%;
+}
+a.yulink:hover{
+    background-color: #97bcfc;
+    color: #ffffff;
+}
+.asd{
+    font-size: 20px;
+    font-weight: 800;
+}
+.gogogo{
+    font-size: 45px;
+    text-align: center;
+}
+.zzzzz{
+    text-align: center;
+}
+section#about{
+    background-color: #ffddfa5b;
+    background-image: url(../assets/img/qqq.jpg);
+}
+section#awards{
+    background-color: #ffddfa5b;
+}
